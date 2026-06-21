@@ -1,6 +1,5 @@
 # Day 6  : DevOps - The real stories
 
-# Day 6 - DevOps Real Stories
 
 ## What I learned today:
 Big companies like Amazon, Netflix, and Etsy successfully use DevOps in real life.
